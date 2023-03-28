@@ -1,0 +1,58 @@
+body {
+    background-color: #330066;
+
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.get {
+    width: 100px;
+    height: 40px;
+    background-image: -moz-linear-gradient(#bdd7fa, #5d66b1 50%, #010767 20%, #40def7);
+    background-image: -webkit-linear-gradient(#bdd7fa, #5d66b1 50%, #010767 20%, #40def7);
+    background-image: -o-linear-gradient(#bdd7fa, #5d66b1 50%, #010767 20%, #40def7);
+    border-radius:10px;
+    color: white;
+    padding:7px 25px;
+}
+.get:hover {
+    background-image: -moz-linear-gradient(#bad4f8, #b2b7da 50%, #8b90bb 50%, #3ed8f3);
+    background-image: -webkit-linear-gradient(#bad4f8, #b2b7da 50%, #8b90bb 50%, #3ed8f3);
+    background-image: -o-linear-gradient(#bad4f8, #b2b7da 50%, #8b90bb 50%, #3ed8f3);
+}
+
+.card {
+    margin-top: 20px;
+    background-color: white;
+    border: 3px solid black;
+    width: 220px;
+    height: 260px;
+    border-radius: 10px;
+}
+.card_img {
+    padding-top: 10px;
+    padding-left: 55px;
+    width: 95px;
+    height: 110px;
+}
+.card p {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: black;
+    padding-left: 20px;
+}
+
+.card span {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 28px;
+    color: #666666;
+    padding-left: 20px;
+    padding-bottom: -20px;
+}
