@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/elite.jpg",
+      "alt": "меню премиум",
+      "title": "",
+      "description": "",
+      "price": ""
+    },
+    {
+      "img": "",
+      "alt": "",
+      "title": "",
+      "description": "",
+      "price": ""
+    },
+    {
+      "img": "",
+      "alt": "",
+      "title": "",
+      "description": "",
+      "price": ""
+    }
+  ]
+}
